@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BarApp</string>
+
+    <string name="no_data_prompt">亲，暂无数据哦</string>
+
+    <string name="nomore_loading">亲，没有更多数据了</string>
+
+    <string name="login">登录</string>
+    <string name="phone">请输入您的电话号码</string>
+    <string name="password">请输入您的密码</string>
+    <string name="use_third_account">第三方账号登录</string>
+    <string name="create_infm_account">创建账号</string>
+    <string name="forget_password">忘记密码</string>
+    <string name="no_install_wechat">未安装微信</string>
+    <string name="no_install_qq">未安装QQ</string>
+    <string name="create_account">创建账号</string>
+    <string name="send_verification_code">获取验证码</string>
+    <string name="count_down">%ss</string>
+    <string name="tip_please_input_phone">请输入手机号码</string>
+    <string name="tip_phone_can_not_be_empty">手机号码不能为空</string>
+    <string name="tip_please_input_code">请输入验证码</string>
+    <string name="tip_please_input_6_32_password">请输入6-32个密码</string>
+    <string name="reset_pwd">重置密码</string>
+    <string name="user_rule">用户协议</string>
+
+    <string name="add_attention">退出账号</string>
+    <string name="user_post">职位：产品经理</string>
+    <string name="user_book">书单：25本</string>
+    <string name="user_name">西北老狼michael</string>
+    <string name="user_des">谁能像优乐美一样把我捧在手心，我就能让他的儿子长的更帅女儿长的更漂亮</string>
+    <string name="user_recommend_tip">TA推荐的好书</string>
+</resources>

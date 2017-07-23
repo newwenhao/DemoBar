@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\AndroidWorkSpace\\CommonIndexDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "F:\\AndroidWorkSpace\\CommonIndexDemo\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\CommonIndexDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "F:\\AndroidWorkSpace\\CommonIndexDemo\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\Code_Android_7_2\\CommonIndexDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "G:\\Code_Android_7_2\\CommonIndexDemo\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\CommonIndexDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "F:\\AndroidWorkSpace\\CommonIndexDemo\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "G:\\Code_Android_7_2\\CommonIndexDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "G:\\Code_Android_7_2\\CommonIndexDemo\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "G:\\Code_Android_7_2\\CommonIndexDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "G:\\Code_Android_7_2\\CommonIndexDemo\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\Code_Android_7_2\\CommonIndexDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "G:\\Code_Android_7_2\\CommonIndexDemo\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\CommonIndexDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "F:\\AndroidWorkSpace\\CommonIndexDemo\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "G:\\Code_Android_7_2\\CommonIndexDemo\\library\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "G:\\Code_Android_7_2\\CommonIndexDemo\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\CommonIndexDemo\\library\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "F:\\AndroidWorkSpace\\CommonIndexDemo\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\CommonIndexDemo\\library\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "F:\\AndroidWorkSpace\\CommonIndexDemo\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "G:\\Code_Android_7_2\\CommonIndexDemo\\library\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "G:\\Code_Android_7_2\\CommonIndexDemo\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\Code_Android_7_2\\CommonIndexDemo\\library\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "G:\\Code_Android_7_2\\CommonIndexDemo\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\CommonIndexDemo\\library\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "F:\\AndroidWorkSpace\\CommonIndexDemo\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\CommonIndexDemo\\library\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "F:\\AndroidWorkSpace\\CommonIndexDemo\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\Code_Android_7_2\\CommonIndexDemo\\library\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "G:\\Code_Android_7_2\\CommonIndexDemo\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

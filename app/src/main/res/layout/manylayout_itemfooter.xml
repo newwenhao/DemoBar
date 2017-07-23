@@ -1,0 +1,130 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:paddingLeft="13dp"
+    android:paddingRight="5dp"
+    android:layout_height="100dp"
+    android:id="@+id/footer"
+    android:background="@drawable/allpass_back_2"
+    android:orientation="horizontal"
+    android:weightSum="1">
+
+    <com.iiseeuu.asyncimage.widget.AsyncImageView
+        android:id="@+id/img_con"
+        android:layout_marginTop="4dp"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center_vertical"
+        android:background="@drawable/ic_stub" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:orientation="horizontal"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_gravity="center"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="3dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:text="刘亦菲"
+                android:id="@+id/title_con"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#9ACD32"
+                android:textSize="14dp" />
+
+            <TextView
+                android:text="一起做个小游戏呗"
+                android:id="@+id/desc_con"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textColor="#CD8500"
+                android:textSize="13dp" />
+        </LinearLayout>
+        <ImageView
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="50dp"
+            android:id="@+id/isfinish"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/accept_btn_sel"
+            android:layout_gravity="center_vertical" />
+
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--xmlns:app="http://schemas.android.com/apk/res-auto"-->
+    <!--android:orientation="vertical"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="120dp">-->
+    <!--<android.support.v7.widget.CardView-->
+
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="120dp"-->
+        <!--android:focusable="true"-->
+        <!--android:clickable="true"-->
+        <!--android:foreground="@drawable/card_foreground"-->
+        <!--app:cardCornerRadius="@dimen/card_radius"-->
+        <!--app:cardPreventCornerOverlap="false"-->
+        <!--app:elevation="3dp">-->
+        <!--<LinearLayout-->
+
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:orientation="horizontal">-->
+
+            <!--<ImageView-->
+                <!--android:id="@+id/ivIcon"-->
+                <!--android:layout_width="80dp"-->
+                <!--android:layout_height="80dp"-->
+                <!--android:layout_marginLeft="10dp"-->
+                <!--android:layout_gravity="center_vertical"-->
+                <!--android:src="@drawable/ic_stub" />-->
+
+            <!--<LinearLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:layout_marginLeft="20dp"-->
+                <!--android:gravity="center_vertical"-->
+                <!--android:orientation="vertical">-->
+
+                <!--<TextView-->
+                    <!--android:id="@+id/taskName"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:text="郑志雄"-->
+                    <!--android:textSize="18dp" />-->
+
+                <!--<TextView-->
+                    <!--android:id="@+id/taskLocation"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_marginTop="10dp"-->
+                    <!--android:text="个人简介"-->
+                    <!--android:textSize="13dp" />-->
+                <!--<TextView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_marginTop="2dp"-->
+                    <!--android:text="     毕业于武汉纺织大学，最近无聊，求勾搭，毕业于武汉纺织大学，最近无聊，求勾搭，毕业于武汉纺织大学，最近无聊，求勾搭"-->
+                    <!--android:textSize="12dp" />-->
+            <!--</LinearLayout>-->
+        <!--</LinearLayout>-->
+    <!--</android.support.v7.widget.CardView>-->
+
+    <!--<View-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="8dp" />-->
+
+<!--</LinearLayout>-->
